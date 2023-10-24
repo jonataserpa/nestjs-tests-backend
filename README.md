@@ -7,8 +7,6 @@ Project Easy food API create with Node.js:
 - Bd: Mysql
 - Test unit - (Jest)
 - Desgin patterns
-    - Mapper
-    - Factory
     - DTO
 - Documentation - Swagger API       
 
